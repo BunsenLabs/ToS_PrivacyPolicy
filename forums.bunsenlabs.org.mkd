@@ -1,4 +1,4 @@
-Document revision: 5 (last update: 2018-07-12) ([View changelog](https://github.com/BunsenLabs/ToS_PrivacyPolicy/commits/master/forums.bunsenlabs.org.mkd))
+Document revision: 6 (last update: 2019-12-07) ([View changelog](https://github.com/BunsenLabs/ToS_PrivacyPolicy/commits/master/forums.bunsenlabs.org.mkd))
 
   1. [General Guidelines](#general-guidelines)
   2. [Spam and Abuse Policy](#spam-and-abuse-policy)
@@ -35,8 +35,7 @@ Document revision: 5 (last update: 2018-07-12) ([View changelog](https://github.
     service. We recommend using
     [paste.debian.net](https://paste.debian.net).
 -   Do not embed images larger than 250x250px into posts, use thumbnails
-    linking to a hosted image instead. [scrot.moe](https://scrot.moe) is
-    run by a community member, ad-free and nice.
+    linking to a hosted image instead.
 -   Quoting long posts in their entirety is considered poor forum
     etiquette. Please edit the \"quotes\" to the points of interest you
     are referring to.
