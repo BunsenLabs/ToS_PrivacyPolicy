@@ -226,3 +226,4 @@ settings.
 -   Forum moderators are
       * damo
       * hhh
+      * Sector11
